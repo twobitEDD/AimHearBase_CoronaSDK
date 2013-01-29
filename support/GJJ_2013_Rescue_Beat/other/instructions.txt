@@ -1,0 +1,8 @@
+Your space station has exploded and you are on a mission to rescue your fellow astronauts floating around in space. All you have at your disposal is a sophisticated laser microphone scanner which can faintly detect a heartbeat when pointed in the direction of one of your incapacitated comrades.
+
+Tap and hold the space around your ship to scan in that direction with your laser mic and pick up the heartbeats of stranded astronauts.  The closer the astronaut is to you and to the path of your laser mic, the louder the heartbeat will be.  You may hear overlapping heartbeats if your scan is picking up the life signatures of more than on astronaut.
+
+To move your ship, touch your ship and move your touch in the desired direction.  Once you are moving, the ship will reorient to follow your touch as you move it.  Release that touch to stop moving.
+
+Move your ship over a stranded astronaut to rescue them.  Hurry to save them all -- before time runs out!
+

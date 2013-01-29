@@ -1,0 +1,34 @@
+settings = 
+{
+	orientation = 
+	{
+		default = "landscapeRight",
+
+		supported =
+
+			{
+				"landscapeRight",
+				"landscapeLeft"
+
+			},
+	},
+	iphone =
+	{
+		plist =
+			{
+				CFBundleIdentifier = "com.thirdrailgames.aimhear",
+
+				CFBundleVersion = "1.0",
+				CFBundleIconFile = "Icon.png",
+				CFBundleIconFiles = {
+                                                        "Icon.png" , 
+                                                        "Icon@2x.png" , 
+                                                        "Icon-72.png" , 
+                                                        "Icon-Small-50.png" , 
+                                                        "Icon-Small.png" , 
+                                                        "Icon-Small@2x.png"
+                                                },
+				UIStatusBarHidden = true,
+			},
+	},
+}
